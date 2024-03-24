@@ -1,6 +1,7 @@
 # Cruft
 .DS_Store
 
+.cache/
 # Visual Studio
 Win32/*
 .vs
